@@ -1,0 +1,8 @@
+torch>=1.8.0
+transformers
+accelerate
+datasets
+cleanlab
+seqeval
+polars
+faiss-gpu
